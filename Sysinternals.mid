@@ -1,7 +1,0 @@
-Category: Windows Tools
-Tools Used: Process Explorer, Autoruns, Procmon, TCPView, PsExec
-
-Summary
-The Sysinternals Suite is a collection of advanced Windows troubleshooting tools used for system monitoring,
-malware analysis, and incident response. These tools provide deep visibility into running processes, startup
-items, registry changes, and network activity.
