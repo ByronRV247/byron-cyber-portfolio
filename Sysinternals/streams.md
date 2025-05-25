@@ -1,0 +1,3 @@
+"The NTFS file system provides applications the ability to create alternate data streams of information. 
+By default, all data is stored in a file's main unnamed data stream, but by using the syntax 'file:stream', 
+you are able to read and write to alternates." 
