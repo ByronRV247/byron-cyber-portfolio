@@ -10,3 +10,5 @@ Now that you've found the stream, just run:
 notepad "C:\Users\Administrator\Desktop\file.txt:ads.txt"
 
 This will open the hidden stream (ads.txt) inside file.txt using Notepad.
+
+![Image](https://github.com/user-attachments/assets/f9f28584-8a6a-488a-bc16-dc92255f80a8)
