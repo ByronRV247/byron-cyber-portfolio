@@ -9,3 +9,12 @@ checka file’s status on VirusTotal, a site that performs automated file scanni
 use case \\ cheking unsinged files \\
 
 ![Image](https://github.com/user-attachments/assets/22c5269c-2e94-4588-9a07-a87638816af7)
+
+Parameter usage:
+
+-u "If VirusTotal check is enabled, show files that are unknown by VirusTotal or have non-zero detection, otherwise show only unsigned files."
+-e "Scan executable images only (regardless of their extension)"
+
+Note: If the results were different it would warrant an investigation into any listed executables. 
+
+
